@@ -1,0 +1,35 @@
+# Gradle
+.gradle/
+**/.gradle/
+**/build/
+**/.kotlin/
+
+# Android
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Local configuration
+local.properties
+**/local.properties
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+
+# Environment variables and secrets
+.env
+.env.*
+**/.env
+!.env.example
+
+# Signing credentials
+*.jks
+*.keystore
+
+# Generated diagnostic files
+build-error.txt
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notes_summaries_smart_recall"><![CDATA[Notes, Summaries & Smart Recall]]></string>
+    <string name="active_recall">Active Recall</string>
+    <string name="ai_powered">AI Powered</string>
+    <string name="notilater">NotiLater</string>
+    <string name="study">STUDY</string>
+    <string name="preparing_your_study_space">Preparing your study space...</string>
+    <string name="splash_progress">splash_progress</string>
+    <string name="splash_animation">splash_animation</string>
+    <string name="ai">AI</string>
+    <string name="no_favorite_notes_yet">No favorite notes yet.</string>
+    <string name="no_notes_found_try_another_filter_or_add_a_note">No notes found.\nTry another filter or add a note.</string>
+    <string name="add_note">Add note</string>
+    <string name="your_notes">Your notes</string>
+    <string name="all_your_ideas_organized_in_one_place">All your ideas, organized in one place.</string>
+    <string name="notes">%1$d notes</string>
+    <string name="alphabetical_a_z">Alphabetical (A–Z)</string>
+    <string name="last_modified">Last Modified</string>
+    <string name="more_options">More options</string>
+    <string name="menu">Menu</string>
+    <string name="edit_note">Edit note</string>
+    <string name="create_note">Create note</string>
+    <string name="go_back">Go back</string>
+    <string name="capture_your_thoughts">Capture your thoughts</string>
+    <string name="write_something_you_want_to_remember">Write something you want to remember.</string>
+    <string name="title">Title</string>
+    <string name="write_your_note_here">Write your note here...</string>
+    <string name="category">Category</string>
+    <string name="save_note">Save Note</string>
+    <string name="ai_summary">AI Summary</string>
+    <string name="your_key_ideas_simplified">Your key ideas, simplified</string>
+    <string name="summary_for">SUMMARY FOR</string>
+    <string name="your_learning_material">Your learning material</string>
+    <string name="here_are_the_main_ideas_and_key_takeaways_from_your_notes">Here are the main ideas and key takeaways from your notes.</string>
+    <string name="generating_your_ai_summary">Generating your AI summary...</string>
+    <string name="analyzing_your_notes_and_identifying_the_important_ideas">Analyzing your notes and identifying the important ideas.</string>
+    <string name="couldn_t_generate_summary">Couldn\'t generate summary</string>
+    <string name="try_again">Try again</string>
+    <string name="key_takeaways">Key takeaways</string>
+    <string name="copied">Copied</string>
+    <string name="copy_summary">Copy summary</string>
+</resources>
