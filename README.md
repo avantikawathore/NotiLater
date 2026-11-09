@@ -16,17 +16,30 @@ The project consists of an Android application built with Kotlin and Jetpack Com
 
 ## Screenshots
 
-| Splash Screen | Home Screen |
-|---|---|
-| ![Splash Screen](screenshots/splash.png) | ![Home Screen](screenshots/home.jpeg) |
+### Splash Screen
+<p align="center">
+  <img src="screenshots/splash.png" width="280" alt="Splash Screen"/>
+</p>
 
-| Add Note | Note Details |
-|---|---|
-| ![Add Note](screenshots/add-note.png) | ![Note Details](screenshots/note-details.jpeg) |
+### Home Screen
+<p align="center">
+  <img src="screenshots/home.jpeg" width="280" alt="Home Screen"/>
+</p>
+
+### Add Note
+<p align="center">
+  <img src="screenshots/add-note.png" width="280" alt="Add Note"/>
+</p>
+
+### Note Details
+<p align="center">
+  <img src="screenshots/note-details.jpeg" width="280" alt="Note Details"/>
+</p>
 
 ### AI Summary
-
-![AI Summary](screenshots/ai-summary.jpeg)
+<p align="center">
+  <img src="screenshots/ai-summary.jpeg" width="280" alt="AI Summary"/>
+</p>
 
 ## Tech Stack
 
