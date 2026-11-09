@@ -14,13 +14,27 @@ The project consists of an Android application built with Kotlin and Jetpack Com
   - Alphabetical (A–Z).
 - Modern UI built with Jetpack Compose and Material 3.
 
+## Screenshots
+
+| Splash Screen | Home Screen |
+|---|---|
+| ![Splash Screen](screenshots/splash.png) | ![Home Screen](screenshots/home.jpeg) |
+
+| Add Note | Note Details |
+|---|---|
+| ![Add Note](screenshots/add-note.png) | ![Note Details](screenshots/note-details.jpeg) |
+
+### AI Summary
+
+![AI Summary](screenshots/ai-summary.jpeg)
+
 ## Tech Stack
 
 ### Android Application
 - Kotlin
 - Jetpack Compose
 - Material 3
-- MVVM Architecture
+- MVI Architecture
 - Clean Architecture
 - Hilt
 - Kotlin Coroutines

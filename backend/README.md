@@ -18,7 +18,6 @@ NotiLater Backend is a Kotlin-based REST API built using **Ktor**. It provides A
 | GET | `/` | Root endpoint |
 | GET | `/health` | Health check |
 | POST | `/api/summary` | Generate an AI summary |
-| POST | `/api/quiz` | Generate an AI quiz |
 
 ## Configuration
 
