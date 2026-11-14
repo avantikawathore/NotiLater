@@ -1,6 +1,6 @@
 # NotiLater Backend
 
-NotiLater Backend is a Kotlin-based REST API built using **Ktor**. It provides AI-powered note summarization and quiz generation for the NotiLater Android application.
+NotiLater Backend is a Kotlin-based REST API built using **Ktor**. It provides AI-powered note summarization for the NotiLater Android application.
 
 ## Tech Stack
 
